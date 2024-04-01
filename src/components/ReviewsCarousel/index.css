@@ -1,0 +1,14 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
+
+.review-provided-by {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow {
+  align-self: center;
+}
